@@ -186,16 +186,6 @@ Contributions are welcome!
 
 ---
 
-## ⭐ Support
-
-If you like this project:
-
-* ⭐ Star the repo
-* 🍴 Fork it
-* 📢 Share with others
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License.
