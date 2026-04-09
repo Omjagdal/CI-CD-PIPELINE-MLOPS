@@ -178,10 +178,5 @@ Contributions are welcome!
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
 
 [1]: https://lo-victoria.com/implementing-cicd-pipelines-with-github-actions-for-mlops?utm_source=chatgpt.com "Implementing CI/CD Pipelines with GitHub Actions for MLOps"
