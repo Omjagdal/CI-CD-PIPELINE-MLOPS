@@ -1,10 +1,10 @@
-# 🚀 CI/CD Pipeline for MLOps
+#  CI/CD Pipeline for MLOps
 
 An end-to-end **CI/CD pipeline for Machine Learning (MLOps)** that automates model building, testing, and deployment using modern DevOps practices.
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project demonstrates how to integrate **CI/CD pipelines with Machine Learning workflows**, enabling automated training, testing, and deployment of ML models.
 
@@ -12,7 +12,7 @@ It follows real-world MLOps practices where every code change triggers an automa
 
 ---
 
-## 🧠 What is MLOps + CI/CD?
+##  What is MLOps + CI/CD?
 
 * **MLOps** combines Machine Learning + DevOps to manage the ML lifecycle
 * **CI/CD (Continuous Integration / Continuous Deployment)** automates:
@@ -26,9 +26,9 @@ CI/CD pipelines help improve reliability, speed, and reproducibility of ML syste
 
 ---
 
-## ⚙️ Features
+##  Features
 
-* 🔹 Automated CI/CD pipeline using GitHub Actions
+*  Automated CI/CD pipeline using GitHub Actions
 * 🔹 Model training & evaluation automation
 * 🔹 Code testing and validation
 * 🔹 Docker-based containerization
@@ -37,7 +37,7 @@ CI/CD pipelines help improve reliability, speed, and reproducibility of ML syste
 
 ---
 
-## 🔄 Pipeline Workflow
+##  Pipeline Workflow
 
 ```text
 Code Push / PR
@@ -59,7 +59,7 @@ Deploy Model
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 CI-CD-PIPELINE-MLOPS/
@@ -75,7 +75,7 @@ CI-CD-PIPELINE-MLOPS/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1️⃣ Clone Repository
 
@@ -139,9 +139,9 @@ GitHub Actions will automatically:
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
-* Python 🐍
+* Python 
 * Machine Learning (Scikit-learn / others)
 * GitHub Actions (CI/CD)
 * Docker
@@ -149,7 +149,7 @@ GitHub Actions will automatically:
 
 ---
 
-## 📈 Learning Outcomes
+##  Learning Outcomes
 
 * Understand CI/CD in ML systems
 * Build automated ML pipelines
@@ -158,7 +158,7 @@ GitHub Actions will automatically:
 
 ---
 
-## 🔥 Future Improvements
+##  Future Improvements
 
 * Add MLflow for experiment tracking
 * Integrate cloud deployment (AWS / GCP)
@@ -167,7 +167,7 @@ GitHub Actions will automatically:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome!
 
