@@ -130,7 +130,7 @@ GitHub Actions will automatically:
 
 ---
 
-## 🧪 Use Cases
+##  Use Cases
 
 * Automated ML model deployment
 * CI/CD integration for ML projects
